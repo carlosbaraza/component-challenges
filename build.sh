@@ -12,7 +12,7 @@ mkdir -p build
 # Challenge 1: React
 mkdir -p build/challenges/component-challenge-1/component-challenge-1-react/build
 cp -r \
-    challenges/component-challenge-1/component-challenge-1-react/build/ \
-    build/challenges/component-challenge-1/component-challenge-1-react/build/
+    challenges/component-challenge-1/component-challenge-1-react/build/* \
+    build/challenges/component-challenge-1/component-challenge-1-react
 
-cp -r src/ build/
+cp -r src/* build
