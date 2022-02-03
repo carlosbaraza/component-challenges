@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/css/main.073c9b0a.css",
-    "main.js": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/js/main.2e8a64a4.js",
-    "static/js/787.898188ff.chunk.js": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/js/787.898188ff.chunk.js",
-    "static/media/logo.svg": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/index.html",
-    "main.073c9b0a.css.map": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/css/main.073c9b0a.css.map",
-    "main.2e8a64a4.js.map": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/js/main.2e8a64a4.js.map",
-    "787.898188ff.chunk.js.map": "/component-challenges/src/challenges/component-challenge-1/component-challenge-1-react/build/static/js/787.898188ff.chunk.js.map"
+    "main.css": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/css/main.073c9b0a.css",
+    "main.js": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/js/main.04a61b6b.js",
+    "static/js/787.898188ff.chunk.js": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/js/787.898188ff.chunk.js",
+    "static/media/logo.svg": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/index.html",
+    "main.073c9b0a.css.map": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/css/main.073c9b0a.css.map",
+    "main.04a61b6b.js.map": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/js/main.04a61b6b.js.map",
+    "787.898188ff.chunk.js.map": "/component-challenges/challenges/component-challenge-1/component-challenge-1-react/static/js/787.898188ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2e8a64a4.js"
+    "static/js/main.04a61b6b.js"
   ]
 }
