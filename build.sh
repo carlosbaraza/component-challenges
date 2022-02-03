@@ -2,7 +2,7 @@
 
 # Run build setting relative path for build folder
 lerna exec -- \
-    PUBLIC_URL="\$(echo \$PWD | sed \"s|\$LERNA_ROOT_PATH||g\")/build" \
+    PUBLIC_URL="\$(echo \$PWD | sed \"s|\$LERNA_ROOT_PATH|/component-challenges/src|g\")/build" \
         npm run build
 
 # Add build folder
