@@ -7,6 +7,6 @@
   },
   "scripts": {
     "build": "./build.sh",
-    "serve": "serve"
+    "dev": "lerna exec --scope docs -- npm run dev"
   }
 }
